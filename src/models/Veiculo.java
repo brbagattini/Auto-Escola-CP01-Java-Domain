@@ -1,7 +1,7 @@
 package models;
 
 public class Veiculo {
-    String tipo;
-    int modelo;
-    String placa;
+    public String tipo;
+    public int modelo;
+    public String placa;
 }
