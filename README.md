@@ -106,10 +106,10 @@ Ao executar a classe `Main`, o sistema realiza:
 |---------------------------|--------|
 | Pedro Marchese            | 563339 |
 | Bruno Bagattini Fernandes | rm     |
-| Pedro Henrique Sartorelli Ferreira  | 563281|
-| Rafael Felix Souza              | 565855     |
-| Rafael                    | rm     |
-| Rafael                    | rm     |
+| Pedro Henrique Sartorelli Ferreira | 563281|
+| Rafael Felix Souza             | 565855     |
+| Matheus Brasil Borges Sevilha Angelotti| 561456     |
+| Nathália dos Santos Cordeiro| 563072     |
 
 
 
