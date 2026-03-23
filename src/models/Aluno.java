@@ -5,6 +5,7 @@ import java.util.Random;
 public class Aluno {
     public String nome;
     public int idade;
+    public Instrutor instrutor;
     public String tipoVeiculo;
     public int aulasTeoricas;
     public int aulasPraticas;
