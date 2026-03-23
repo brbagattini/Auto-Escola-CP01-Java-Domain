@@ -1,6 +1,7 @@
 package models;
 
-public class Veiculo {
+public class
+Veiculo {
     public String tipo;
     public String modelo;
     public String placa;

@@ -95,7 +95,7 @@ public class Main {
         aluno3.agendarAulaTeorica();
 
         System.out.println("=============================");
-
+        //simular exame
         aluno3.realizarExame();
     }
 }

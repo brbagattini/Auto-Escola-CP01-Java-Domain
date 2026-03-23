@@ -52,7 +52,7 @@ Métodos:
 ---
 
 **AutoEscola**
-- lista de alunos (até 4 no cenário atual)
+- lista de alunos
 
 Métodos:
 - adicionarAluno(Aluno aluno)
