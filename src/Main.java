@@ -3,7 +3,6 @@ import models.AutoEscola;
 import models.Instrutor;
 import models.Veiculo;
 
-//import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
@@ -101,50 +100,6 @@ public class Main {
         aluno3.realizarExame();
 
 
-        /*
-        Código caso precise de Scanner
-
-        while (true){
-            Scanner sc = new Scanner(System.in);
-            System.out.println("bem vindo ao sistema de agendamentos:");
-            System.out.println("oque deseja realizar:");
-            System.out.println("1.cadastro");
-            System.out.println("2.agendamento e cancelamento de aula");
-            System.out.println("3.exibir resumo de alunos");
-            System.out.println("1.Realizar exame");
-            System.out.println("5.sair");
-            System.out.println("digite sua opção:");
-            int opt = sc.nextInt();
-            if (opt ==1){
-                System.out.println("Oque gostaria de cadastrar?");
-                System.out.println("1.Aluno");
-                System.out.println("2.Instrutor");
-                System.out.println("3.veiculo");
-            }
-            if (opt == 2){
-                while (true){
-                    System.out.println("Escolha o aluno");
-                    autoEscola.exibirResumo();
-                    String alunoEscolhido = sc.next().toLowerCase().trim();
-                    System.out.println("digite aqui o nome:");
-
-                }
-
-
-            }
-            if (opt == 3){
-                System.out.println("a");
-            }
-            if(opt == 4){
-                System.out.println("Escolha o aluno");
-            }
-            if (opt == 5){
-                break;
-            }else{
-                System.out.println("digite uma opção valida");
-            }
-        }
-
-         */
+       
     }
 }
