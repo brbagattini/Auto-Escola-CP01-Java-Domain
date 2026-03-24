@@ -19,4 +19,5 @@ public class AutoEscola {
             System.out.println("-> "+i.nome + " aprovado: " +i.aprovado);
         }
     }
+
 }

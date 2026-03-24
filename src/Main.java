@@ -3,6 +3,7 @@ import models.AutoEscola;
 import models.Instrutor;
 import models.Veiculo;
 
+
 public class Main {
     public static void main(String[] args){
         //iniciar Escola
@@ -97,5 +98,8 @@ public class Main {
         System.out.println("=============================");
         //simular exame
         aluno3.realizarExame();
+
+
+       
     }
 }
