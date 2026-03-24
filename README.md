@@ -95,7 +95,7 @@ Ao executar a classe `Main`, o sistema realiza:
 
 ## Tecnologias Utilizadas
 
-- Java
+- Java 21
 - Programação Orientada a Objetos (POO)
 
 ---
